@@ -58,12 +58,13 @@ In the Jupyter notebook. Restarted the kernel, ran the provided cells that corre
     Below are the results :
 
     The results for the 6 months window with 4 day short-window and 100 days long-window
-
-    ![](CumPlot_6Mon_4SW_100LW.png)
+    
+![](CumPlot_6Mon_4SW_100LW.png)
+    
 
     The results for 12 months window with 4 day short-window and 100 days long-window
 
-    ![](CumPlot_12Mon.png)
+![](CumPlot_12Mon.png)
 
     What impact resulted from increasing or decreasing the training window?
 
@@ -77,11 +78,11 @@ In the Jupyter notebook. Restarted the kernel, ran the provided cells that corre
 
     Results for 4 day short-window and 60 day long window
 
-    ![](CumPlot_6Mon_4SW_60LW.png)
+![](CumPlot_6Mon_4SW_60LW.png)
 
     Increased the short window to 10 days and increased the long window to 200 days, below are the results.
 
-    ![](CumPlot_6Mon_10SW_200LW.png)
+![](CumPlot_6Mon_10SW_200LW.png)
 
     Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
@@ -93,11 +94,11 @@ In the Jupyter notebook. Restarted the kernel, ran the provided cells that corre
 
     Imported the ADA Boost Classifier+
 
-    ![](ImportADABoostClassifer.png)
+![](ImportADABoostClassifer.png)
 
     Fit the original scaled training and predict using the original test data
 
-    ![](ADABoost-Fit-Predict.png)
+![](ADABoost-Fit-Predict.png)
 
 
 3. Backtested the new model to evaluate its performance.
