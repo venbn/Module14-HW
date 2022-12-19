@@ -111,11 +111,9 @@ In the Jupyter notebook. Restarted the kernel, ran the provided cells that corre
 
     ![](ADA-Boost-Cumulative-Returns.png)
 
-    Answer the following questions: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
+     Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
-## Final Conclusion
-
-ADA Boost cumulative returns graph shows slightly better results compared to the one generated using SVC with no major difference. However, looking at both the classification report, the accuracy percentage remains low around 55%.
+    ADA Boost cumulative returns graph does not show better results compared to the one generated using SVC from svm. Also, looking at both the classification reports, the accuracy percentage are very low however, the accuracy percentage of ADA Boost Classifer is even lower.
 
 
 
